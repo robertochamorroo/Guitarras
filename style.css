@@ -83,7 +83,7 @@ header .button-contato button{
 
 /* BACKGROUND */
 #fundo1{
-    background: url(img/background.jpeg);
+    background: url(background.jpeg);
     text-align: center;
     background-size: cover;
     background-attachment: fixed;
@@ -170,7 +170,7 @@ footer {
 }
 
 #mais {
-    background: url(img/fender.jpg);
+    background: url(fender.jpg);
     height: 100%;
     width: 100%;
     text-align: center;
